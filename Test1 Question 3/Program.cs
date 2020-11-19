@@ -9,7 +9,7 @@ namespace Numbers
         private static string CapitalizeFirstWord(string sentence)
 
         {
-            
+            string.toupper
         }
       
 
